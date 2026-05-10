@@ -1,6 +1,6 @@
 # Deep AI Signal Node
 
-Dark hacker-style chat UI built with React, Vite, and Tailwind CSS.
+Dark hacker-style chat UI built with React, Vite, and Tailwind CSS...
 
 
 **##  Go and choose Release Option and use Download my model deep_ai and run locally.**
